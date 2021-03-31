@@ -1,5 +1,7 @@
 package DEMO5;
 
+import org.testng.annotations.Test;
+
 public class LOGINTESTING {
 
 	
