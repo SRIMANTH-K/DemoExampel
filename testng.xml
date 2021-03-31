@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  
+<listeners>
+<listener class-name="listeners.Listenersfortesting"/>
+</listeners>
+<test name="TestingLoginpage">
+		<classes>
+			<class name="pagetestcodes.LoginpageTest"/>
+		</classes>
+		</test>
+	<test name="Verifytextonhomepage">
+		<classes>
+			<class name="pagetestcodes.TextverifyTest" />
+
+		</classes>
+	</test>
+	<test name="ChekingNavigationBar">
+		<classes>
+			<class name="pagetestcodes.ChekingNavigationBarinhomepageTest"/>
+		</classes>
+		</test>
+		
+		
+</suite> 
+  

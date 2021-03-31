@@ -1,0 +1,36 @@
+2020-12-28 14:52:50 INFO  BaseTest:35 - Giving data properties path
+2020-12-28 14:52:50 INFO  BaseTest:42 - Getting browser Property File Data
+2020-12-28 14:52:50 INFO  BaseTest:49 - set Chrome driver path
+2020-12-28 14:52:50 INFO  BaseTest:51 - creating driver object for chrome
+2020-12-28 14:53:01 INFO  LoginpageTest:33 - launching url
+2020-12-28 14:53:09 INFO  LoginpageTest:36 - crating object for class to acces methods in Loginpage class
+2020-12-28 14:53:09 INFO  LoginpageTest:39 - clicking login button in hoome Page
+2020-12-28 14:53:11 INFO  LoginpageTest:42 - Generating one excel utility file to read exceld data
+2020-12-28 14:53:16 INFO  LoginpageTest:53 - Clearing the email filed box
+2020-12-28 14:53:16 INFO  LoginpageTest:55 - Sending email data from Excel sheet
+2020-12-28 14:53:16 INFO  LoginpageTest:57 - Sending password data from Excel sheet
+2020-12-28 14:53:16 INFO  LoginpageTest:59 - click on login button
+2020-12-28 14:53:16 INFO  LoginpageTest:61 - click on forgotpassword button
+2020-12-28 14:53:17 INFO  LoginpageTest:63 - Sending reenter mail details thorugh excel 
+2020-12-28 14:53:17 INFO  LoginpageTest:65 - Sending reenter mail details
+2020-12-28 14:53:17 INFO  LoginpageTest:67 - click on giving instructors button
+2020-12-28 14:53:17 INFO  LoginpageTest:69 - click on again login button
+2020-12-28 14:53:17 INFO  LoginpageTest:53 - Clearing the email filed box
+2020-12-28 14:53:18 INFO  LoginpageTest:55 - Sending email data from Excel sheet
+2020-12-28 14:53:18 INFO  LoginpageTest:57 - Sending password data from Excel sheet
+2020-12-28 14:53:18 INFO  LoginpageTest:59 - click on login button
+2020-12-28 14:53:18 INFO  LoginpageTest:61 - click on forgotpassword button
+2020-12-28 14:53:18 INFO  LoginpageTest:63 - Sending reenter mail details thorugh excel 
+2020-12-28 14:53:18 INFO  LoginpageTest:65 - Sending reenter mail details
+2020-12-28 14:53:18 INFO  LoginpageTest:67 - click on giving instructors button
+2020-12-28 14:53:19 INFO  LoginpageTest:69 - click on again login button
+2020-12-28 14:53:19 INFO  LoginpageTest:53 - Clearing the email filed box
+2020-12-28 14:53:19 INFO  LoginpageTest:55 - Sending email data from Excel sheet
+2020-12-28 14:53:19 INFO  LoginpageTest:57 - Sending password data from Excel sheet
+2020-12-28 14:53:19 INFO  LoginpageTest:59 - click on login button
+2020-12-28 14:53:20 INFO  LoginpageTest:61 - click on forgotpassword button
+2020-12-28 14:53:20 INFO  LoginpageTest:63 - Sending reenter mail details thorugh excel 
+2020-12-28 14:53:20 INFO  LoginpageTest:65 - Sending reenter mail details
+2020-12-28 14:53:20 INFO  LoginpageTest:67 - click on giving instructors button
+2020-12-28 14:53:20 INFO  LoginpageTest:69 - click on again login button
+2020-12-28 14:53:21 INFO  LoginpageTest:79 - Finally closing browser
