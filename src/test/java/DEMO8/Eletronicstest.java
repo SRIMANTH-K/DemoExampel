@@ -31,3 +31,10 @@ public class Eletronicstest {
 		
 		System.out.println("this is loginpage1 testing");
 	}
+}
+@Test
+	public void vegitablespage() {
+		
+		System.out.println("this is vegtitables testing");
+	}
+}
