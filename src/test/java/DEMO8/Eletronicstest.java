@@ -24,3 +24,10 @@ public class Eletronicstest {
 		System.out.println("this is log outpage testing");
 	}
 }
+
+
+@Test
+	public void loginpage1() {
+		
+		System.out.println("this is loginpage1 testing");
+	}
