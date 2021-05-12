@@ -38,3 +38,21 @@ public class Eletronicstest {
 		System.out.println("this is vegtitables testing");
 	}
 }
+@Test
+	public void vegitablespage1() {
+		
+		System.out.println("this is vegtitables1 testing");
+	}
+}
+@Test
+	public void vegitablespage2() {
+		
+		System.out.println("this is vegtitables2 testing");
+	}
+}
+@Test
+	public void vegitablespage3() {
+		
+		System.out.println("this is vegtitables3 testing");
+	}
+}
