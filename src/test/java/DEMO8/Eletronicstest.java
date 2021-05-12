@@ -15,3 +15,12 @@ public class Eletronicstest {
 		
 		System.out.println("this is addingkart testing");
 	}
+
+}
+
+@Test
+	public void logoutpage() {
+		
+		System.out.println("this is log outpage testing");
+	}
+}
